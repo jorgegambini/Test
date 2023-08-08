@@ -3,3 +3,4 @@
 * Dr. Doom
 * Red Skull
 * Bruja Escarlata
+* Thanos
